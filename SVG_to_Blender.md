@@ -19,6 +19,8 @@ How to create a 3d object in Bledar from an SVG file:
 
 
 
+
+
 **4. Save as: SVG file, make sure to convert to convert to outlines**
 
 <img width="536" alt="screen shot 2017-10-22 at 10 05 25 pm" src="https://user-images.githubusercontent.com/30060990/33008411-d7caecaa-cd87-11e7-8a47-d2cdcb1e7bac.png">
