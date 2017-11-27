@@ -32,5 +32,10 @@ How to create a 3d object in Bledar from an SVG file:
 **5. Now open up Blender, delete the square by hitting x and selecting delete (hit enter). Now select file import, and import your svg. Should look something like this:**
 
 
+<img width="709" alt="screen shot 2017-11-26 at 9 50 42 pm" src="https://user-images.githubusercontent.com/30060990/33252592-f9df1f98-d2f3-11e7-91b9-9a2c7c860d26.png">
+
+<img width="770" alt="screen shot 2017-11-26 at 9 50 51 pm" src="https://user-images.githubusercontent.com/30060990/33252593-fa049c00-d2f3-11e7-92a3-f607ce02eef1.png">
+
+
  
 
