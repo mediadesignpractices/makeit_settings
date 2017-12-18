@@ -14,6 +14,7 @@ How to create a 3d object in Bledar from an SVG file:
  
  
 **3. All strokes will need to be expanded**
+Another thing that you might want to do is crop the artboard to the size of the graphic. It seems to define where the gizmo (the moving tool x,y,z). In the pictures the gizmo is rather far away from the graphic, which makes editing a bit of a pain. This way the gizmo is attached much closer. 
 
 <img width="655" alt="screen shot 2017-10-31 at 10 14 33 pm" src="https://user-images.githubusercontent.com/30060990/33008383-bdbae860-cd87-11e7-801c-d5fccf3c8d4a.png">
 
