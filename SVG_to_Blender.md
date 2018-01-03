@@ -109,20 +109,41 @@ Now rotate the platform so your file is upright. With a mac trac pad use two fin
 **7. Edit time!**
 
 
-After setting up everything so you can see what you are doing hit "A" to select all. Then switch from object mode to edit mode:
+After setting up everything so you can see what you are doing right click all the parts of your svg file. Now you need to convert all the curves to mesh. To do this select the object tab at the bottom of the screen and select Convert To >> Mesh from Curve/Meta/Surf/Text. 
+
+<img width="734" alt="screen shot 2017-12-17 at 10 35 33 pm" src="https://user-images.githubusercontent.com/30060990/34506609-4c94e6e4-efe3-11e7-9692-f1d0544b922c.png">
 
 
-<img width="619" alt="screen shot 2017-11-26 at 10 11 45 pm" src="https://user-images.githubusercontent.com/30060990/33253136-dcb4ba06-d2f6-11e7-89c1-b6fe41755030.png">
+</br>
+</br>
+
+Then switch from object mode to edit mode by hitting tab or clicking on object mode and selecting edit mode.
+
+<img width="382" alt="screen shot 2018-01-02 at 5 38 34 pm" src="https://user-images.githubusercontent.com/30060990/34506678-d063bf04-efe3-11e7-9dc5-e74b691281b2.png">
 
 </br>
 </br>
 </br>
-</br>
 
-Now select extrude, and extrude the svg file creating your geometry:
+Now select each object and select the extrude tab, and extrude the svg file creating your geometry:
 
 
 <img width="937" alt="screen shot 2017-10-31 at 10 36 03 pm" src="https://user-images.githubusercontent.com/30060990/33252768-ea4fb726-d2f4-11e7-8ebc-7a27148d1fb4.png">
+
+</br>
+</br>
+
+With objects that are already filled in like the letters in this example extruding is simple, but with the smilely face its not as simple. You have to create a fill between all objects bridging the face to the eyes and mouth. 
+
+
+</br>
+</br>
+</br>
+</br>
+
+**8. Export the file as an .stl file
+
+
 
 
 
