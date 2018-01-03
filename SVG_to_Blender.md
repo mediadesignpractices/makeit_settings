@@ -28,6 +28,29 @@ Another thing that you might want to do is crop the artboard to the size of the 
 
 </br>
 </br>
+
+With objects that are already filled in like the letters in this example extruding is simple, but with the smilely face, if you want it to be filled and the mouth and eyes knocked out, its not as simple. You will have to create a fill everything in in Illustrator. 
+
+</br>
+
+To do this add a point next to another point and delete the stroke between those two points. 
+<img width="449" alt="screen shot 2018-01-02 at 7 02 57 pm" src="https://user-images.githubusercontent.com/30060990/34507991-2e0c62d0-eff0-11e7-8911-f68a6e537d3d.png">
+
+</br>
+</br>
+
+Add points using the pen tool (p) and then select the curve using the white arrow tool (a), but when selecting make sure that the points are not highligted blue, and are empty white boxes. 
+<img width="454" alt="screen shot 2018-01-02 at 7 03 11 pm" src="https://user-images.githubusercontent.com/30060990/34508031-7aaf94f4-eff0-11e7-8d6e-a6bf53b99be4.png">
+
+</br>
+</br>
+
+Then you will need use the pen to bridge the gaps. Once you have done this for both eyes and the mouth you need to switch the stroke of the object to be fill. 
+
+<img width="603" alt="screen shot 2018-01-02 at 7 06 56 pm" src="https://user-images.githubusercontent.com/30060990/34508036-9573251c-eff0-11e7-9b85-a7fe5c7b0a4c.png">
+
+</br>
+</br>
 </br>
 </br>
 
@@ -130,18 +153,13 @@ Now select each object and select the extrude tab, and extrude the svg file crea
 
 <img width="937" alt="screen shot 2017-10-31 at 10 36 03 pm" src="https://user-images.githubusercontent.com/30060990/33252768-ea4fb726-d2f4-11e7-8ebc-7a27148d1fb4.png">
 
-</br>
-</br>
-
-With objects that are already filled in like the letters in this example extruding is simple, but with the smilely face its not as simple. You have to create a fill between all objects bridging the face to the eyes and mouth. 
-
 
 </br>
 </br>
 </br>
 </br>
 
-**8. Export the file as an .stl file
+**8. Export the file as an .stl file**
 
 
 
