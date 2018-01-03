@@ -22,7 +22,7 @@
 </br>
 
 **3. All strokes will need to be expanded**
-Another thing that you might want to do is crop the artboard to the size of the graphic. It seems to define where the gizmo (the moving tool x,y,z). In the pictures the gizmo is rather far away from the graphic, which makes editing a bit of a pain. This way the gizmo is attached much closer. 
+Another thing that you might want to do is crop the artboard to the size of the graphic. It seems to define where the gizmo (the moving tool x,y,z). In the pictures the gizmo is rather far away from the graphic, which makes editing a bit of a pain. This way the gizmo is attached much closer.
 
 <img width="655" alt="screen shot 2017-10-31 at 10 14 33 pm" src="https://user-images.githubusercontent.com/30060990/33008383-bdbae860-cd87-11e7-801c-d5fccf3c8d4a.png">
 
@@ -72,9 +72,9 @@ Import your svg file by going to file >> import >> Scalable Vector Graphic (.svg
 </br>
 </br>
 
-**6. zoom in to see your svg file... its going to be small... like super small, but its there ** 
+**6. zoom in to see your svg file... its going to be small... like super small, but its there**
 
-
+</br>
 
 zoom in! with a mac trac pad its to fingers scale motion/ two fingers expand out, with a three button mouse its just the center scroll wheel or middle button + CTRL:
 
@@ -82,29 +82,47 @@ zoom in! with a mac trac pad its to fingers scale motion/ two fingers expand out
 
 <img width="520" alt="screen shot 2017-10-31 at 10 27 49 pm" src="https://user-images.githubusercontent.com/30060990/33252766-ea081830-d2f4-11e7-8d56-7520469703ae.png">
 
-
+</br>
+</br>
+</br>
+</br>
 
 Now rotate the platform so your file is upright. With a mac trac pad use two fingers up and down to rotate the plane around the Y axis, left and right to rotate around the z axis. With a three button mouse its similiar but with the center button:
 
 
 <img width="748" alt="screen shot 2017-10-31 at 10 35 48 pm" src="https://user-images.githubusercontent.com/30060990/33252767-ea2a5cce-d2f4-11e7-8ceb-709e94a0eb80.png">
 
+</br>
+</br>
+</br>
+</br>
+
+**If the gizmo is way off you can select all the text and curves and then in the tools tab, and click on the Set Origins tab then select Origin to Geometry**
+
+<img width="703" alt="screen shot 2017-12-17 at 10 34 21 pm" src="https://user-images.githubusercontent.com/30060990/34506472-d49e91fe-efe1-11e7-9f8a-15169bdd1240.png">
+
+</br>
+</br>
+</br>
+</br>
+
+**7. Edit time!**
 
 
-**7. Edit time! **
-
-
-After setting up everything so you can see what you are doing hit "A" to select all. Then switch from object mode to edit mode: 
+After setting up everything so you can see what you are doing hit "A" to select all. Then switch from object mode to edit mode:
 
 
 <img width="619" alt="screen shot 2017-11-26 at 10 11 45 pm" src="https://user-images.githubusercontent.com/30060990/33253136-dcb4ba06-d2f6-11e7-89c1-b6fe41755030.png">
 
-
+</br>
+</br>
+</br>
+</br>
 
 Now select extrude, and extrude the svg file creating your geometry:
 
 
 <img width="937" alt="screen shot 2017-10-31 at 10 36 03 pm" src="https://user-images.githubusercontent.com/30060990/33252768-ea4fb726-d2f4-11e7-8ebc-7a27148d1fb4.png">
 
- 
+
 
