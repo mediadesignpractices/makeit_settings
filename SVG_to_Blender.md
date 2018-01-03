@@ -1,26 +1,35 @@
 
-How to create a 3d object in Bledar from an SVG file:
+***How to create a 3d object in Bledar from an SVG file:***
+
+</br>
 
 **1. Start by making a file in illustrator.**
 
 <img width="452" alt="screen shot 2017-10-22 at 10 08 27 pm" src="https://user-images.githubusercontent.com/30060990/33008459-0014cfa0-cd88-11e7-8516-df160e1e2233.png">
 
-
+</br>
+</br>
+</br>
+</br>
 
 **2. If you have any type you need to convert it to outlines. You can do this by selecting the type and typing the hotkey CMD+SHFT+O**
 
 <img width="479" alt="screen shot 2017-10-22 at 10 02 01 pm" src="https://user-images.githubusercontent.com/30060990/33008482-18adb108-cd88-11e7-8668-cfbb9b62dd66.png">
- 
- 
- 
+
+</br>
+</br>
+</br>
+</br>
+
 **3. All strokes will need to be expanded**
 Another thing that you might want to do is crop the artboard to the size of the graphic. It seems to define where the gizmo (the moving tool x,y,z). In the pictures the gizmo is rather far away from the graphic, which makes editing a bit of a pain. This way the gizmo is attached much closer. 
 
 <img width="655" alt="screen shot 2017-10-31 at 10 14 33 pm" src="https://user-images.githubusercontent.com/30060990/33008383-bdbae860-cd87-11e7-801c-d5fccf3c8d4a.png">
 
-
-
-
+</br>
+</br>
+</br>
+</br>
 
 **4. Save as: SVG file, make sure to convert to convert to outlines**
 
@@ -29,6 +38,10 @@ Another thing that you might want to do is crop the artboard to the size of the 
 
 <img width="494" alt="screen shot 2017-10-22 at 10 08 48 pm" src="https://user-images.githubusercontent.com/30060990/33008438-e603e43e-cd87-11e7-9ce8-171b57d02eaa.png">
 
+</br>
+</br>
+</br>
+</br>
 
 **5. Now open up Blender, delete the square by hitting x and selecting delete (hit enter). Now select file import, and import your svg. Should look something like this:**
 
@@ -38,19 +51,26 @@ open blender:
 
 <img width="709" alt="screen shot 2017-11-26 at 9 50 42 pm" src="https://user-images.githubusercontent.com/30060990/33252592-f9df1f98-d2f3-11e7-91b9-9a2c7c860d26.png">
 
+</br>
+</br>
 
 delete the square by hitting "x" and selecting delete:
 
 
 <img width="770" alt="screen shot 2017-11-26 at 9 50 51 pm" src="https://user-images.githubusercontent.com/30060990/33252593-fa049c00-d2f3-11e7-92a3-f607ce02eef1.png">
 
+</br>
+</br>
 
 Import your svg file by going to file >> import >> Scalable Vector Graphic (.svg):
 
 
 <img width="614" alt="screen shot 2017-11-26 at 9 53 19 pm" src="https://user-images.githubusercontent.com/30060990/33252650-511eff80-d2f4-11e7-9a22-669995916136.png">
 
-
+</br>
+</br>
+</br>
+</br>
 
 **6. zoom in to see your svg file... its going to be small... like super small, but its there ** 
 
