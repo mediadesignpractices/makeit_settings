@@ -148,10 +148,46 @@ Then switch from object mode to edit mode by hitting tab or clicking on object m
 </br>
 </br>
 
-Now select each object and select the extrude tab, and extrude the svg file creating your geometry:
+Now select each object and select the extrude tab, and drag up, creating geometry. From here will show the rest of what to do with filled face. 
 
 
 <img width="937" alt="screen shot 2017-10-31 at 10 36 03 pm" src="https://user-images.githubusercontent.com/30060990/33252768-ea4fb726-d2f4-11e7-8ebc-7a27148d1fb4.png">
+
+<img width="651" alt="screen shot 2018-01-02 at 7 34 05 pm" src="https://user-images.githubusercontent.com/30060990/34508484-c982d25e-eff4-11e7-9b4f-aa448b7c4d9f.png">
+
+</br>
+</br>
+
+You also might want to change the material options so you can better see what you are doing. To do this go on the right pannel and select the material editor and change the color from black to what you want it.
+
+<img width="383" alt="screen shot 2018-01-02 at 7 32 58 pm" src="https://user-images.githubusercontent.com/30060990/34508500-f73f3afc-eff4-11e7-9ad9-e87cc761a7ce.png">
+
+</br>
+</br>
+ 
+With the extruded geomtry of the filled face there will be way to many polygons then you need. It will also make modeling the gaps in the face harder. To clean this up you will need to switch into edit mode (Tab) and then hit (x) and select Limited Disolve. This will simplify any geometry that isnt needed. I found that you might need to do this twice to get rid of all the polys in the inner spots that we will be modeling.
+
+<img width="682" alt="screen shot 2018-01-02 at 7 33 37 pm" src="https://user-images.githubusercontent.com/30060990/34508616-582d2d46-eff6-11e7-90e3-f7025c87b1d9.png">
+
+<img width="651" alt="screen shot 2018-01-02 at 7 34 05 pm" src="https://user-images.githubusercontent.com/30060990/34508631-6c06273c-eff6-11e7-8a4c-63dea7983f73.png">
+
+Now that the polys are cleaned up we need to start to model the gaps. Switch your selection tool from points to faces and select the inner faces of the gaps. Hit x to delete those faces. 
+
+<img width="525" alt="screen shot 2018-01-02 at 7 34 29 pm" src="https://user-images.githubusercontent.com/30060990/34508640-7bff3c50-eff6-11e7-9bae-082e140dc3fe.png">
+
+<img width="496" alt="screen shot 2018-01-02 at 7 35 01 pm" src="https://user-images.githubusercontent.com/30060990/34508643-8b9a36f6-eff6-11e7-929a-31ab72d17d33.png">
+
+<img width="261" alt="screen shot 2018-01-02 at 7 35 10 pm" src="https://user-images.githubusercontent.com/30060990/34508647-97390bae-eff6-11e7-932a-9687a623287f.png">
+
+</br>
+</br>
+
+Now change your selection tool from faces to edges. Select both edges that you need to join and hit (f) for fill. do this on all four sides, and repeat for the other two sections that need to be modeled. 
+
+<img width="560" alt="screen shot 2018-01-02 at 7 35 18 pm" src="https://user-images.githubusercontent.com/30060990/34508653-a9e9222a-eff6-11e7-9039-e4f7f632de62.png">
+
+
+<img width="297" alt="screen shot 2018-01-02 at 7 35 35 pm" src="https://user-images.githubusercontent.com/30060990/34508666-bc675976-eff6-11e7-8191-3703fdacf172.png">
 
 
 </br>
