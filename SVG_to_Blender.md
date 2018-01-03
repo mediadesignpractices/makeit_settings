@@ -192,12 +192,18 @@ Now change your selection tool from faces to edges. Select both edges that you n
 
 </br>
 </br>
+
+<img width="630" alt="screen shot 2018-01-02 at 7 56 07 pm" src="https://user-images.githubusercontent.com/30060990/34508705-2db4aab6-eff7-11e7-8d81-ba5b6a0028ea.png">
+
+</br>
+</br>
 </br>
 </br>
 
 **8. Export the file as an .stl file**
 
+<img width="644" alt="screen shot 2018-01-02 at 7 56 15 pm" src="https://user-images.githubusercontent.com/30060990/34508715-45ebf710-eff7-11e7-8a6a-4ab2b6e9cbb5.png">
 
-
+Now you are ready to print!
 
 
