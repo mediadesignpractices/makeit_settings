@@ -1,4 +1,4 @@
-##This is a collection of 3d printable items that work with, alter, or enhance items bought from Ikea. It is aimed at helping with installations, and meant to be able to be printed and used as is or re-modeled slightly and then printed.##
+## This is a collection of 3d printable items that work with, alter, or enhance items bought from Ikea. It is aimed at helping with installations, and meant to be able to be printed and used as is or re-modeled slightly and then printed. ##
 
 Billy Clip Hook</br>
 https://www.thingiverse.com/thing:92933
@@ -99,6 +99,6 @@ https://www.thingiverse.com/thing:237425
 </br>
 </br>
 
-IKEA - TERTIAL Lamp Holder</br>
+IKEA - TERTIAL Lamp Holder</brt>
 https://www.thingiverse.com/thing:1909957
 ![0e6e11c491a8348d07eb80d949e8f2a7_preview_featured](https://user-images.githubusercontent.com/30060990/34804986-4f97d0c4-f630-11e7-9b7f-29567b2c0539.jpeg)
